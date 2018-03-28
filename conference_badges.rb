@@ -11,4 +11,6 @@ def batch_badge_creator(list)
 end
 
 def assign_rooms(list)
-  
+  rooms = []
+  list.each do |name|
+    rooms << 
